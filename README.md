@@ -22,11 +22,12 @@ This is semester project for "Database System" course. It provides various funct
 
 ![image](https://user-images.githubusercontent.com/49767636/83331415-b8b3f780-a2af-11ea-8d68-8cf48a7c9d40.png)
 
-**Inventory Management **
+**Inventory Management**
 
 ![image](https://user-images.githubusercontent.com/49767636/83331438-db461080-a2af-11ea-9c39-a275e5c49afa.png)
 
 **Checkout**
+
 ![image](https://user-images.githubusercontent.com/49767636/83331450-ee58e080-a2af-11ea-98e8-52defb55cb9e.png)
 
 ## Note
